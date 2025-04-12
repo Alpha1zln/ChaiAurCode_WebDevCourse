@@ -28,7 +28,7 @@ body {
   font-weight: bold;
   cursor: pointer;
   border-radius: 5px;
-  border:#160b0b;
+  border: 2px solid  #160b0b;
   border-block-color: black;
   color: rgb(20, 13, 13);
   transition: 0.3s ease;
