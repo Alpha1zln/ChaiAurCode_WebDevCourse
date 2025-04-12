@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: hsla(0, 8%, 72%, 0.899);
+  transition: background-color 0.4s ease;
+}
+
+.container {
+  padding-top: 30px;
+}
+
+.mainheading {
+  background: rgb(90, 82, 82);
+  color: rgb(14, 11, 11);
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 20px;
+  width: 60%;
+  height: 20%;
+}
+
+.buttons button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  border:#160b0b;
+  border-block-color: black;
+  color: rgb(20, 13, 13);
+  transition: 0.3s ease;
+}
+
+#Grey    { background-color: grey; }
+#Orange  { background-color: orange; }
+#Green   { background-color: green; }
+#Yellow  { background-color: goldenrod; }
+#Purple  { background-color: purple; }
