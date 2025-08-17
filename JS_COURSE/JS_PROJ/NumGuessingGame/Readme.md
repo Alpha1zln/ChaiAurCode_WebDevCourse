@@ -6,7 +6,7 @@
 
 ### Num Guessing Game
 
-<img src="guessGame.png" alt="Output Screenshot" width="400"/>
+<img src="guessGame.png" alt="Output Screenshot" width="800"/>
 
 
 
@@ -14,7 +14,7 @@
 
 ### Op of Game : 
 
-<img src="numgusssgameop.png" alt="Output Screenshot" width="400"/>
+<img src="numgusssgameop.png" alt="Output Screenshot" width="800"/>
 
 
 
