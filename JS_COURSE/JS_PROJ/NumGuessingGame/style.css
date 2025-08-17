@@ -1,0 +1,76 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+
+
+
+h1{
+    /* //background-color: rgb(164, 66, 177); */
+    color: brown;
+    text-align: center;
+    text-transform:uppercase;
+    margin: 50px;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-style:oblique;
+    /* width: 100px;
+    height: 20px; */
+    
+}
+
+
+
+.container {
+    text-align: center;
+}
+
+
+#gen_num {
+    background-color: rgb(176, 72, 224);
+    color: black;
+    text-decoration:solid;
+    /* padding: 1%;  */
+    font-size: larger;
+    font-weight: bolder; 
+    width: 300px;
+    height: 60px;
+    
+}
+
+
+#guess_num {
+    background-color: rgb(239, 163, 108);
+    color: #212121;
+    text-decoration: wavy;
+    font-size: larger;
+    font-weight: bolder; 
+    width: 200px;
+    height: 40px;
+}
+
+
+#count_guesses {
+    text-align: center;
+    margin: 0 auto; /* centers horizontally */
+    padding: 0 auto; /* centers vertically */
+    background-color: rgb(70, 221, 173);
+    color: #212121;
+    text-decoration: wavy;
+    font-size: larger;
+    font-weight: bolder; 
+    width: 200px;
+    height: 30px;
+}
+
+
+#result_btn {
+    background-color: rgb(168, 210, 17);
+    color: black;
+    text-decoration:solid;
+    padding: 1%; 
+    font-size: larger;
+    font-weight: bolder; 
+    width: 400px;
+    
+}
