@@ -4,7 +4,7 @@
 
 ************************
 
-### Num Guessing Game [Guess the num and enter for every guess till you win]
+### Num Guessing Game [Guess the num then press enter for every guess till you win]
 
 <img src="guessGame.png" alt="Output Screenshot" width="800"/>
 
