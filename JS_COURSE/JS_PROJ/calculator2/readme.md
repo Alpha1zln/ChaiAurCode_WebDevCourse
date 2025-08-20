@@ -6,7 +6,7 @@
 
 ### op
 
-<img src="op/calc mine.png" alt="Output Screenshot" width="800"/>
+<img src="op/calc mine.png" alt="Output Screenshot" width="500"/>
 
 
 
